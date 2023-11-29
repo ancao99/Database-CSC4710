@@ -2,10 +2,11 @@ import mysql from "mysql2"
 import fs from "fs"
 
 const dbConfig = {
-    host: "localhost",
+    host: "127.0.0.1",   
+    port: 3306, 
     user: "root",
     // password: "Nhi04031080.",
-    password: "admin",
+    password: "Hoangminh2345",
     database: "badrabbit"
 }
 
@@ -23,6 +24,7 @@ UserToken(userID,tokenKey,createdDate)
 export const checkDatabase = async () => {   
     let db3 = mysql.createConnection({
         host: dbConfig.host,
+        port: dbConfig.port,
         user: dbConfig.user,
         password: dbConfig.password,
     });

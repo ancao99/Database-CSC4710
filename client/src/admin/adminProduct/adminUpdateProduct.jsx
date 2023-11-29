@@ -98,7 +98,7 @@ export const AdminUpdateProduct = () => {
             }
         }
         fetchData();
-    }, []);
+    }, [categoriesData]);
 
     return (
         <section id="content" className='adminPage'>
@@ -110,7 +110,7 @@ export const AdminUpdateProduct = () => {
                         <h1>Edit Product</h1>
                     </div>
                 </div>
-                {(categoriesData !== null && categoriesData === undefined) ? (
+                {(categoriesData !== null && categoriesData !== undefined) ? (
                     <div className="updateProduct">
                         <form onSubmit={handleEditProduct} encType="multipart/form-data">
                             <label htmlFor="categoriesID">Categories:</label>
