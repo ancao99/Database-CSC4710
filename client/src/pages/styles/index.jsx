@@ -35,10 +35,10 @@ export const Styles = () => {
               {/* Outfit Item 1 */}
               <div className="col-6 col-sm-6 col-md-4">
                 <div className="outfit-item">
-                  <a
+                  {/*<a
                     href="/collections/rabbit-outfit-1skull-mask?id=1"
                     title="OUTFIT RB #1"
-                  >
+                  >*/}
                     <picture>
                       <source
                         media="(max-width: 767px)"
@@ -57,16 +57,16 @@ export const Styles = () => {
                         data-src="//file.hstatic.net/1000351433/collection/artboard_1_88f43ef571cb4bb2a552771350c1ce48_master.jpg"
                       />
                     </picture>
-                  </a>
+                  {/*</a>*/}
                 </div>
               </div>
               {/* Outfit Item 2 */}
               <div className="col-6 col-sm-6 col-md-4">
                 <div className="outfit-item">
-                  <a
+                  {/*<a
                     href="/collections/outfit-9-black-player-tee?id=2"
                     title="OUTFIT RB #9"
-                  >
+  >*/}
                     <picture>
                       <source
                         media="(max-width: 767px)"
@@ -85,17 +85,17 @@ export const Styles = () => {
                         data-src="//file.hstatic.net/1000351433/collection/artboard_2_378fae121526444d917dd62c104347c2_master.png"
                       />
                     </picture>
-                  </a>
+                  {/*</a>*/}
                 </div>
               </div>
 
               {/* Outfit Item 3 */}
               <div className="col-6 col-sm-6 col-md-4">
                 <div className="outfit-item">
-                  <a
+                  {/*<a
                     href="/collections/outfit-9-black-player-tee?id=2"
                     title="OUTFIT RB #8"
-                  >
+                  >*/}
                     <picture>
                       <source
                         media="(max-width: 767px)"
@@ -114,17 +114,17 @@ export const Styles = () => {
                         data-src="//file.hstatic.net/1000351433/collection/artboard_3_36f0fd72ac7d41b1bbc96fa8d868e08d_master.png"
                       />
                     </picture>
-                  </a>
+                  {/*</a>*/}
                 </div>
               </div>
 
               {/* Outfit Item 4 */}
               <div className="col-6 col-sm-6 col-md-4">
                 <div className="outfit-item">
-                  <a
+                  {/*<a
                     href="/collections/outfit-9-black-player-tee?id=2"
                     title="OUTFIT RB #7"
-                  >
+                  >*/}
                     <picture>
                       <source
                         media="(max-width: 767px)"
@@ -143,17 +143,17 @@ export const Styles = () => {
                         data-src="//file.hstatic.net/1000351433/collection/artboard_6_b6a3f2d62f6344be83ef47d791c6059c_master.png"
                       />
                     </picture>
-                  </a>
+                  {/*</a>*/}
                 </div>
               </div>
 
               {/* Outfit Item 5 */}
               <div className="col-6 col-sm-6 col-md-4">
                 <div className="outfit-item">
-                  <a
+                  {/*<a
                     href="/collections/outfit-6-smiley-rabbit-hoodie?id=5"
                     title="OUTFIT RB #6"
-                  >
+                  >*/}
                     <picture>
                       <source
                         media="(max-width: 767px)"
@@ -172,17 +172,17 @@ export const Styles = () => {
                         data-src="//file.hstatic.net/1000351433/collection/artboard_5_8a9564b48c044a728eeb1f28da2e9b93_master.png"
                       />
                     </picture>
-                  </a>
+                  {/*</a>*/}
                 </div>
               </div>
 
               {/* Outfit Item 6 */}
               <div className="col-6 col-sm-6 col-md-4">
                 <div className="outfit-item">
-                  <a
+                  {/*<a
                     href="/collections/outfit-7-team-hoodie?id=6"
                     title="OUTFIT RB #7"
-                  >
+                  >*/}
                     <picture>
                       <source
                         media="(max-width: 767px)"
@@ -201,17 +201,17 @@ export const Styles = () => {
                         data-src="//file.hstatic.net/1000351433/collection/artboard_4_49ee20525f06496abf1a3087f5142ec4_master.png"
                       />
                     </picture>
-                  </a>
+                  {/*</a>*/}
                 </div>
               </div>
 
               {/* Outfit Item 7 */}
               <div className="col-6 col-sm-6 col-md-4">
                 <div className="outfit-item">
-                  <a
+                  {/*<a
                     href="/collections/outfit-4-purple-cartoon-cardigan?id=7"
                     title="OUTFIT RB #4"
-                  >
+                  >*/}
                     <picture>
                       <source
                         media="(max-width: 767px)"
@@ -230,17 +230,17 @@ export const Styles = () => {
                         data-src="//file.hstatic.net/1000351433/collection/artboard_7_9bfbd17b314e43538b8d66303127d503_master.png"
                       />
                     </picture>
-                  </a>
+                  {/*</a>*/}
                 </div>
               </div>
 
               {/* Outfit Item 8 */}
               <div className="col-6 col-sm-6 col-md-4">
                 <div className="outfit-item">
-                  <a
+                  {/*<a
                     href="/collections/outfit-3-rabbit-bts-cardigan?id=8"
                     title="OUTFIT RB #3"
-                  >
+                  >*/}
                     <picture>
                       <source
                         media="(max-width: 767px)"
@@ -259,17 +259,17 @@ export const Styles = () => {
                         data-src="//file.hstatic.net/1000351433/collection/artboard_8_4b5d889dc57844a3827ef6e9c43cd2df_master.png"
                       />
                     </picture>
-                  </a>
+                  {/*</a>*/}
                 </div>
               </div>
 
               {/* Outfit Item 9 */}
               <div className="col-6 col-sm-6 col-md-4">
                 <div className="outfit-item">
-                  <a
+                  {/*<a
                     href="/collections/outfit-2-rabbit-n-friend-polo?id=9"
                     title="OUTFIT RB #2"
-                  >
+                  >*/}
                     <picture>
                       <source
                         media="(max-width: 767px)"
@@ -288,7 +288,7 @@ export const Styles = () => {
                         data-src="//file.hstatic.net/1000351433/collection/artboard_9_243286ed53954d858f99e4add9a1f7d9_master.png"
                       />
                     </picture>
-                  </a>
+                  {/*</a>*/}
                 </div>
               </div>
             </div>

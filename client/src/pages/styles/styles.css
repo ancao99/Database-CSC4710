@@ -7,7 +7,7 @@
 }
 
 #down-icon {
-    cursor: pointer;
+    
     transform: translateY(0);
     transition: transform 0.3s ease-in-out;
   }
@@ -15,4 +15,3 @@
   #down-icon.clicked {
     transform: translateY(20px); /* Adjust the distance for the downward motion */
   }
-  
